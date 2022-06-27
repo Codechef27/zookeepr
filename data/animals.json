@@ -109,6 +109,15 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "buddah",
+      "species": "gorilla",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
     }
   ]
 }
