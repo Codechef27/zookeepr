@@ -105,7 +105,7 @@
       "species": "lemur",
       "diet": "omnivore",
       "personalityTraits": [
-        "stupid",
+        "fat",
         "hungry"
       ],
       "id": "10"
@@ -119,5 +119,6 @@
       ],
       "id": "11"
     }
+
   ]
 }
